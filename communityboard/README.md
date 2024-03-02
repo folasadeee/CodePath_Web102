@@ -26,9 +26,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/nkIqRFN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/JUKGxYh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<a href="https://i.imgur.com/nkIqRFN.gif" target="_blank">Open GIF in New Tab</a>
+<a href="https://imgur.com/a/zmPCagd" target="_blank">Open GIF in New Tab</a>
 
 
 <!-- Replace this with whatever GIF tool you used! -->
